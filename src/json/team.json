@@ -1,0 +1,35 @@
+[
+  {
+    "lastname": "F",
+    "firstname": "H",
+    "nick": "HFDrae",
+    "picture": "./src/img/team-pictures/dra.png",
+    "favoriteGame": "Xenoblade Chronicles 2",
+    "favoriteGameSlug": "xenoblade-chronicles-2",
+    "description": "Bonsoir ! Je suis Dra, je pratique la programmation depuis mon année de terminale plus ou moins régulièrement et je passe clairement beaucoup trop de temps à lire des bouquins, regarder des animes ou encore à chercher comment dire telle ou telle chose en Japonais... En terme de jeux vidéos, j'apprécie beaucoup les RPG, JRPG ou encore Monster Hunter !",
+    "descriptionButtonText": "Wanna know more 'bout me ?",
+    "contribution": "39.75%"
+  },
+  {
+    "lastname": "S",
+    "firstname": "M",
+    "nick": "Matryx",
+    "picture": "./src/img/team-pictures/matryx.jpg",
+    "favoriteGame": "World of Warcraft",
+    "favoriteGameSlug": "world-of-warcraft",
+    "description": "Salutation ! Moi c'est Matryx, j'aime les nouvelles technologies depuis toujours et j'ai commencé à pratiquer assez jeune. J'ai mis en place mon premier serveur world of warcraft à mes 14 ans (en suivant un tuto), j'ai ensuite fait une mini calculatrice en C++ puis j'ai pris la décision de partir en STI2D pour l'option informatique. J'ai ensuite fait une prépa intégré à l'ISEN Lille en cycle Informatique et Réseaux. J'ai ensuite arrété car je n'aimais pas ca, je suis donc partis à l'IUT A de Lille, ce qui nous amène (à peu de choses près) à aujourd'hui. Voilà voilà !",
+    "descriptionButtonText": "Qui suis-je ?",
+    "contribution": "59.75%"
+  },
+  {
+    "lastname": "B",
+    "firstname": "L",
+    "nick": "Sulacox",
+    "picture": "./src/img/team-pictures/sulacox.png",
+    "favoriteGame": "Cyber shadow",
+    "favoriteGameSlug": "cyber-shadow",
+    "description": "",
+    "descriptionButtonText": "Description",
+    "contribution": "00.50%"
+  }
+]

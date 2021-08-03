@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "serve": "^11.3.2"
+  },
+  "name": "bfs-games",
+  "description": "##Membres - Hugo Forraz - Maxime Soudant - Lucas Brousmiche",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@babel/cli": "^7.13.10",
+    "@babel/core": "^7.13.10",
+    "@babel/plugin-proposal-class-properties": "^7.13.0",
+    "@babel/preset-env": "^7.13.10",
+    "babel-loader": "^8.2.2",
+    "prettier": "^2.2.1",
+    "webpack": "^5.24.4",
+    "webpack-cli": "^4.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode=production",
+    "watch": "webpack --mode=development --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.univ-lille.fr/maxime.soudant.etu/projet-2021.git"
+  },
+  "author": "",
+  "license": "ISC"
+}

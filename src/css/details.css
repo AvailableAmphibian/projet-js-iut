@@ -1,0 +1,46 @@
+.details-container-top{
+    display: flex;
+}
+
+.details-left{
+    float: left;
+}
+
+.details-right{
+    float: right;
+    margin-left: 5%;
+}
+.details-container-bottom{
+    display: flex;
+}
+
+.detailed-body {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: contain;
+    backdrop-filter: brightness(0.20) blur(8px);
+}
+
+.dlc {
+    position: relative;
+    background-position: center!important;
+    text-align: center;
+    background-size: contain, 250px 166px!important;
+    background-repeat: no-repeat;
+}
+
+.dlc .text {
+    display: block;
+    color: #fff;
+    backdrop-filter: blur(3px) brightness(0.7);
+    padding-bottom: 60px;
+    padding-top: 60px;
+    /*text-align-all: center;*/
+    /*position: center;*/
+    width: 250px;
+    height: 166px;
+        /*padding: 5px;*/
+}
+
+
